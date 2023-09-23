@@ -1,5 +1,9 @@
 #!/bin/bash
 
+# Name - akshay gogate
+# date - 21/09/2023
+# email - akshay.gogate@hotmail.com
+
 sum=0
 
 echo "Enter positive numbers to add (if you enter a negative number while loop will exit):"
